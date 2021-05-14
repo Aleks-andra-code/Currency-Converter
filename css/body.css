@@ -1,0 +1,26 @@
+html {
+    box-sizing: border-box;
+}
+
+::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    background-image: url(https://i.postimg.cc/SsP4cqnK/4882066.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    max-width: 400px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px;
+    line-height: 2;
+}
+
+.body__header {
+    font-weight: 700;
+    font-size: 35px;
+}

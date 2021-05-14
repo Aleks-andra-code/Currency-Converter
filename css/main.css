@@ -1,0 +1,13 @@
+.main__paragraph {
+    font-weight: 100;
+    margin-bottom: 0px;
+    text-align: right;
+}
+
+.main__paragraph--result {
+    font-size: 20px;
+    text-align: left;
+    border: 2px solid white;
+    padding: 10px;
+    margin: 10px;
+}

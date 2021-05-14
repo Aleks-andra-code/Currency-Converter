@@ -1,0 +1,26 @@
+.form__fildset {
+    border: 3px solid white;
+    margin: 5px auto;
+    padding: 10px;
+    max-width: 400px;
+    text-align: center;
+}
+
+.form__legend {
+    padding: 10px;
+    text-align: left;
+}
+
+.form__button {
+    border: none;
+    padding: 10px 90px;
+    background-color: #b8b9bf;
+}
+
+.form__reset {
+    border: none;
+    padding: 5px 35px;
+    background-color: #b8b9bf;
+    margin: 10px;
+    text-align: center;
+}
